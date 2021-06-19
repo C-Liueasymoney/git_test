@@ -1,0 +1,12 @@
+package com.chong.git;
+
+/**
+ * @Description:
+ * @Author: chong
+ * @Data: 2021/6/19 11:19 上午
+ */
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("hello world!");
+    }
+}
